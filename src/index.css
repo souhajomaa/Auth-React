@@ -1,0 +1,11 @@
+/*src/index.css*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --lingomate-blue: #0e8ca8;
+    --lingomate-orange: #EC7735;
+  }
+}
