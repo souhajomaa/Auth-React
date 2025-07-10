@@ -1,12 +1,23 @@
-# React + Vite
+# 🔐 Authentication (Sign In / Sign Up) - LingoMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This module of **LingoMate** handles user authentication using **Firebase Authentication**. It allows users to **create an account**, **sign in**, and **securely access** the application's main features such as interactive lessons and quizzes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
 
-## Expanding the ESLint configuration
+| Tool / Library       | Version     |
+|----------------------|-------------|
+| React                | ^19.1.0     |
+| Vite                 | ^7.0.3      |
+| Tailwind CSS         | ^3.4.17     |
+| React Router DOM     | ^7.6.3      |
+| Firebase (Auth)      | ^11.10.0    |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Features Preview
+
+- 🔑 Sign In Page  
+- 📝 Sign Up Page  
+- 🔒 Authentication with Firebase
