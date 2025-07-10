@@ -1,8 +1,5 @@
-# 🔐 Authentication (Sign In / Sign Up) - LingoMate
+# 🔐 Authentication (Sign In / Sign Up) 
 
-This module of **LingoMate** handles user authentication using **Firebase Authentication**. It allows users to **create an account**, **sign in**, and **securely access** the application's main features such as interactive lessons and quizzes.
-
----
 
 ## 🧰 Tech Stack
 
